@@ -85,7 +85,7 @@ App runs at: [http://localhost:5173](http://localhost:5173)
 ## 📁 Folder Structure
 
 ```bash
-resumemind/
+resumeFlow/
 ├── src/
 │   ├── pages/           # Main app pages (Dashboard, ResumeEdit, ResumeView, Home)
 │   ├── components/      # UI and custom components
