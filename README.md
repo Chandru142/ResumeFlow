@@ -1,7 +1,7 @@
 
 <div align="center">
 	<img src="public/logo.svg" alt="Resumind Logo" width="120" />
-	<h1 align="center">🚀 Resumind: AI-based Resume Builder</h1>
+	<h1 align="center">🚀 ResumeFlow: AI-based Resume Builder</h1>
 	<p align="center">
 		<b>Build your resume with AI, modern UI, and instant PDF export!</b>
 	</p>
