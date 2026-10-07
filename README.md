@@ -115,4 +115,4 @@ MIT
 
 ## 👨‍💻 Author
 
-Kushal J ([Kushalkush-dev](https://github.com/Kushalkush-dev))
+Chandru D ([Chandru142](https://github.com/Chandru142))
