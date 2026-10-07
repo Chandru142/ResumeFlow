@@ -64,7 +64,7 @@
 ### Installation
 ```bash
 git clone https://github.com/Chandru142/ResumeFlow.git/
-cd Resumind-Ai-based-Resume-Builder/resumemind
+cd ResumeFlow-Ai-based-Resume-Builder/resumemind
 npm install # or yarn install
 ```
 
